@@ -1,4 +1,4 @@
-# simple_viedo_conference
+# simple_video_conference
 ![Video conference Logo](./images/logo.png)
 
 ```cmd
