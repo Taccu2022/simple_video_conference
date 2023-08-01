@@ -1,0 +1,17 @@
+{
+    "name": "alokm/simple_viedo_conference",
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alokm\\SimpleViedoConference\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alok Kumar",
+            "email": "alokmehta1432@gmail.com"
+        }
+    ]
+}
